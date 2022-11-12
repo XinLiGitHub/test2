@@ -1,4 +1,3 @@
-# test2
 # Project Name
 
  Add short description of project here > 
