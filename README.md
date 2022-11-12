@@ -3,7 +3,7 @@
  Add short description of project here > 
 
 ![add image descrition here](direct image link here)
-(https://i.imgur.com/p4zFCba.jpg)
+<a href="https://imgur.com/p4zFCba"><img src="https://i.imgur.com/p4zFCba.jpg" title="source: imgur.com" /></a>
 
 ## The Algorithm
 
