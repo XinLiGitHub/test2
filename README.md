@@ -4,6 +4,7 @@
 
 ![add image descrition here](direct image link here)
 <a href="https://imgur.com/p4zFCba"><img src="https://i.imgur.com/p4zFCba.jpg" title="source: imgur.com" /></a>
+[Imgur](https://i.imgur.com/p4zFCba.jpg)
 
 ## The Algorithm
 
